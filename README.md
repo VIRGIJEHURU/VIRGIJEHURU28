@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, saya virgi jehuru</h1>
-<h3 align="center">Seorang pengembang frontend yang bersemangat dari Indonesia</h3>
+<h3 align="center">Semangat!!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
